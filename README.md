@@ -2,7 +2,7 @@
 
 Tool for management of container in Docker.
 
-![Image](_img/social.jpg)
+![Image](_img/post.jpg)
 
 #### Get container **pull**.
 
